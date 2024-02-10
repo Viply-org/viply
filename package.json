@@ -1,8 +1,8 @@
 {
-  "name": "nextplate",
-  "version": "2.2.2",
-  "description": "Nextjs and Tailwindcss boilerplate",
-  "author": "zeon.studio",
+  "name": "viply.org",
+  "version": "1.0.0",
+  "description": "Empower Professionals",
+  "author": "angeltsvetkov",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
