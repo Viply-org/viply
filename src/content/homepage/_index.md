@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "PM Board - The Notion Template for Product Managers"
-    image: "/images/service-1.png"
+    image: "/images/pmboard.png"
     content: "PM Board enhances your productivity by organizing your PM work. It simplifies tracking all your ongoing projects, the questions and tasks you need to address, freeing your mind."
     bulletpoints:
       - "Project Management"

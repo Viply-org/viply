@@ -68,7 +68,7 @@ const Home = () => {
       {features.map((feature, index: number) => (
         <section
           key={index}
-          className={`section-sm ${index % 2 === 0 && "bg-gradient"}`}
+          className={`section-sm ${index % 2 === 0 && "bg-white"}`}
         >
           <div className="container">
             <div className="row items-center justify-between">
